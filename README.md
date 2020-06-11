@@ -6,7 +6,7 @@ Liri is a simply version of Siri in which you can ask it four questions, Spotify
 The app makes it easier to get this information by pulling API's and Json pkg's.
 
 to run the app simple type: Spotify-this "Title of song", Movie-this "title of movie, Concert-this or Do-what-it-says.
-
+https://invno1247.github.io/Liri/
 
 Contain a link to a deployed version of the app
 Created by using: Javascript, nodejs, api functions, Json functions and git.
@@ -38,7 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](urhttps://invno1247.github.io/Liri/l) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
